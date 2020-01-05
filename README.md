@@ -7,5 +7,5 @@ Topics Covered
 - Kafka producer example
 - Kafka twitter connector demo
 - Kafka twitter producer 
-- sample applications demonstrating usage of Kafka streams and KStream
-- sample applicatons for consuming tweets/logs stored in elastic search
+- Sample applications demonstrating usage of Kafka streams and KStream
+- Sample applicatons for consuming tweets/logs stored in Elasticsearch
