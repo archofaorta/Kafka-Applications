@@ -88,8 +88,8 @@ public class ElasticSearchConsumer {
     public static RestHighLevelClient createClient (){
 
         String hostname = "kakfa-poc-6986890997.us-east-1.bonsaisearch.net";
-        String username = "den2vqog3g";
-        String password = "dppeee61i3";
+        String username = "xxxxxxxxx";
+        String password = "xxxxxxxxx";
 
         final CredentialsProvider credentialsProvider = new BasicCredentialsProvider();
         credentialsProvider.setCredentials(AuthScope.ANY, new UsernamePasswordCredentials(username,password));
