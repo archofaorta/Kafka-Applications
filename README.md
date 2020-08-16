@@ -1,5 +1,5 @@
 # Kafka-Applications
-Sample Kakfa applications utilizing consumer and producer APIs, Kafka connector, Kafka streams for learning purpose
+Sample Kakfa applications utilizing consumer and producer APIs, Kafka connector, Kafka streams
 
 Topics Covered
 - Simple Kafka consumer example
